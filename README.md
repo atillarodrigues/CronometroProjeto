@@ -84,7 +84,7 @@ function reset() {
 }
 
 ```
-##Tecnologias Utilizadas
-  -HTML5
-  -CSS3
-  -JavaScript
+## Tecnologias Utilizadas
+- HTML5
+- CSS3
+- JavaScript
